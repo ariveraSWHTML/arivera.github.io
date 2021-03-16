@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<!--Page Header-->
+<head>
+<style>
+body {
+  background-color: black;
+  color: white;
+}
+p1 {
+	margin: 4em;
+	text-align: center;
+}
+p2 {
+	margin: 4em;
+	text-align: center;
+}		
+	</style>
+  <meta charset="utf-8">
+  <title>Rivera's Smoking Chicken Page</title>
+</head>
+
+<!-- Body begins. This will consist of a header as well as a paragraph.  Use br tags to create a new line-->
+<body>
+
+  <h1 style="font-size:2vw; text-align:center;">Smoking Chicken using Propane & Smoker Box</h1>
+ 
+<!-- This is where the paragraph one begins-->
+  <p1 style="font-size:1vw">
+Hello, do you like chicken?  I do, if you have a gas grill and would like to taste some delicious chicken, then please follow my recipe below
+</p1><br><br>
+
+
+<h2 style="font-size:2vw;text-align:center;">Steps for making awesome chicken</h2>
+
+ol { list-style-type: decimal; }
+<ol>Season Chicken with Bourbon</ol>
+<ol>Store in fridge for 1-hr or more</ol>
+<ol>Fire up grill, wait 5 minutes at 400 degree or more</ol>
+<picture>
+	<source media="(min-width: 480px)"
+	        srcset = "HarvestImages/Coffee_Vanilla_1200.jpg 1200w,
+	                  HarvestImages/Coffee_Vanilla_800.jpg 800w"
+	        sizes="80vw">
+	<img src = "HarvestImages/Coffee_Vanilla_400.jpg" alt="Coffee Vanilla Soap">
+	<picture>
+<ol>Place woodchips in Smoker box</ol>
+	
+</body>
+</html> 
