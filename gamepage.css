@@ -1,7 +1,5 @@
 
 
-<!--Page Header-->
-
 header {
   color: gray;
   background:  url(pageheader.png) no-repeat center center;
@@ -58,7 +56,6 @@ li a:hover {
   background-color: black;
 }
 
-<!-- Create two columns/boxes that floats next to each other -->
 nav {
   float: left;
   width: 30%;
@@ -67,7 +64,7 @@ nav {
   padding: 20px;
 }
 
-<!-- Style the list inside the menu-->
+
 nav ul {
   list-style-type: none;
   padding: 0;
@@ -81,7 +78,6 @@ article {
   height: 300px;
 }
 
-<!-- Clear floats after the columns-->
 section::after {
   content: "";
   display: table;
@@ -98,10 +94,6 @@ section::after {
   <title>Video Game History</title>
 </head>
 
-<!-- Body begins-->
-<body>
-
   <h1 style="font-size:4vw; text-align:center;text-shadow:.2em .2em .1em white;">Blip, Bloop: Console History <br>  and Video Games</h1>
- 
-<!-- This is where the paragraph one begins-->
+
 
