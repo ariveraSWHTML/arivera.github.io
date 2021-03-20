@@ -1,0 +1,96 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Video Game History</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: "Garamond";
+}
+
+
+.sidenav {
+  height: 100%;
+  width: 160px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background: #eee;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #2196F3;
+  display: block;
+}
+
+.sidenav a:hover {
+  color: #064579;
+}
+
+.main {
+  margin-left: 165px; 
+  font-size: 28px; 
+  padding: 0px 10px;
+}
+
+@media screen and (max-height: 100%) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
+p1 { 
+	text-align: justify;
+	font-size: 1vw;	
+}
+
+p2 {	
+	text-align: justify;
+	font-size:1vw;	
+}		
+
+</style>
+</head>
+<body>
+
+<div class="sidenav">
+  <a href="site coming soon">The Origins</a>
+  <a href="site coming soon">1980s-1990s</a>
+  <a href="site coming soon">1990s-2000</a>
+  <a href="site coming soon">Gaming Now</a>
+  <a href="mailto:alberto.rivera.1@us.af.mil">Contact Me</a>
+</div>
+
+<div class="main">
+
+<h1>Blip, Bloop: Console History <br>  and Video Games</h1>
+
+  <p><img src="VGMain.jpg" alt="Bunch of games" width="500" height="220" float="left"> 
+Video Games... the improvements the industry has made throughout the years have been nothing short but amazing.  Do you know when the first gaming console was released for home use?  Did you know that gaming was first done by using what was essentially a super computer?  
+</p>
+ 
+<p><img src="VGHist.jpg" alt="History of Games" width="500" height="220" float="left"/>  The Origins: Take a trip back in time when games were first invented.  <br>
+1980-1990: Did someone say Super Mario?  <br>
+
+1990-2000: Wow, using 3D models for gaming! <br>
+
+Gaming Today: No contest, greatest era of gaming </p>
+ </div>  
+
+
+
+<audio id="Pac-Man" controls preload="auto">
+  <source src="intro.mp3" type="audio/mp3">
+  <p>Download <a href="intro.mp3">"Pac-Man"</a></p>
+</audio>
+
+</body>
+</html> 
+
+ 
